@@ -16,7 +16,7 @@
 | Regulador 5V | 1 | - |
 | Regulador 3.3V | 1 | - |
 | Condensador 1uF | 1 | - |
-| Condensadores 22pF | 1 | - |
+| Condensadores 22pF | 4 | - |
 | Socket 20 pinos | 1 | - |
 | Socket 28 pinos | 1 | - |
 | Header fêmea 10 pinos | 1 | - |
