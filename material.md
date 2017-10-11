@@ -20,10 +20,10 @@
 | Socket 20 pinos | 1 | - |
 | Socket 28 pinos | 1 | - |
 | Header fêmea 10 pinos | 1 | - |
-| Header fêmea 8 pinos | 1 | - |
+| Header fêmea 8 pinos | 2 | - |
 | Header fêmea 6 pinos | 1 | - |
-| LED Bicolor (Laranja/Verde) | 1 | - |
-| Condensador 47uF | 1 | - |
+| LED Bicolor (Laranja/Verde) | 2 | - |
+| Condensador 47uF | 2 | - |
 | PTC Fuse | 1 | - |
 | Header macho 2x3 | 1 | - |
 | Conector DC | 1 | - |
