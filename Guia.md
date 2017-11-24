@@ -19,7 +19,7 @@ A: (3x) 100nF.
 
 B: (1x) 330nF.
 
-NOTA: consultar a última página para saber qual o
+**NOTA:** consultar a última página para saber qual o
 condensador a utilizar.
 
 
@@ -29,7 +29,7 @@ condensador a utilizar.
 
 Soldar PMOS (circuito integrado com 4 pinos).
 
-NOTA: atenção que os pinos que estão pegados
+**NOTA:** atenção que os pinos que estão pegados
 devem estar orientados para cima, juntos ao conetor
 USB.
 
@@ -52,7 +52,7 @@ A: (1x) Cristal de12MHz.
 
 B: (1x) Cristal de16MHz.
 
-NOTA: consultar a última página para saber qual o
+**NOTA:** consultar a última página para saber qual o
 cristal a utilizar.
 
 
