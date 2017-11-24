@@ -39,7 +39,8 @@ USB.
 ![Something](fourth_step.png)
 
 Soldar o díodo.
-NOTA: a orientação do díodo é relevante.
+
+**NOTA:** a orientação do díodo é relevante.
 
 
 5º passo:
