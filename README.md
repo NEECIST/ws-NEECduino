@@ -36,7 +36,7 @@
 
 1º Passo:
 
-![Something](first_step.png)
+![Something](images/first_step.png)
 
 Soldar as resistências:
 
@@ -47,7 +47,7 @@ B: (4x) 10kΩ (Castanho, Preto, Laranja).
 
 2º Passo:
 
-![Something](content/second_step.png)
+![Something](images/second_step.png)
 
 Soldar os condensadores:
 
@@ -61,7 +61,7 @@ condensador a utilizar.
 
 3º passo:
 
-![Something](third_step.png)
+![Something](images/third_step.png)
 
 Soldar PMOS (circuito integrado com 4 pinos).
 
@@ -72,7 +72,7 @@ USB.
 
 4º passo:
 
-![Something](fourth_step.png)
+![Something](images/fourth_step.png)
 
 Soldar o díodo.
 
@@ -81,7 +81,7 @@ Soldar o díodo.
 
 5º passo:
 
-![Something](fifth_step.png)
+![Something](images/fifth_step.png)
 
 Soldar os cristais :
 
@@ -95,7 +95,7 @@ cristal a utilizar.
 
 6º passo:
 
-![Something](sixth_step.png)
+![Something](images/sixth_step.png)
 
 Soldar :
 
