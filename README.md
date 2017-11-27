@@ -1,5 +1,4 @@
 # NEECduino
-NEECduino related content.
 
 # Material list
 
@@ -33,11 +32,7 @@ NEECduino related content.
 | ATMega 328 (com bootloader) | 1 | - |
 | PIC 18F14K50 (programado) | 1 | - |
 
-
-
-
-
-
+# Guia de Montagem
 
 1º Passo:
 
