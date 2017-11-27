@@ -47,7 +47,7 @@ B: (4x) 10kΩ (Castanho, Preto, Laranja).
 
 2º Passo:
 
-![Something](second_step.png)
+![Something](content/second_step.png)
 
 Soldar os condensadores:
 
