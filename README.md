@@ -5,7 +5,7 @@
 | Components | Quantity | Image |
 | -----------|----------|-------|
 | PCB NEECDuino | 1 | ![Something](images/.png) |
-| Resistência 1kOhm (ou 100Ohm) 1/8W | 6 | ![Something](images/1K.jpg) |
+| Resistência 1kOhm (ou 100Ohm) 1/8W | 6 | ![Something](images/1K.png) |
 | Resistência 10kOhm 1/8W | 4 | - |
 | Condensadores 100nF | 3 | - |
 | Condensador 330nF | 1 | - |
