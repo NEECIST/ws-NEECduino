@@ -24,7 +24,7 @@
 | Header fêmea 10 pinos | 1 | ![Something](images/header10p.png) |
 | Header fêmea 8 pinos | 2 | ![Something](images/header8p.png) |
 | Header fêmea 6 pinos | 1 | ![Something](images/header6p.png) |
-| LED Bicolor (Laranja/Verde) | 2 | ![Something](images/led.png) |
+| LED Bicolor (Laranja/Verde) | 2 | ![Something](images/led.png =300x300) |
 | Condensador 47uF | 2 | ![Something](images/47uf.png) |
 | PTC Fuse | 1 | ![Something](images/PTCfuse.png) |
 | Header macho 2x3 | 1 | ![Something](images/header2x3.png) |
