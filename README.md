@@ -154,7 +154,7 @@ Soldar (2x) Leds.
 
 12º passo:
 
-![Something](images/twelveth_step.png)
+![Something](images/twelfth_step.png)
 
 Soldar (2x) Condensadore de 47uF.
 
