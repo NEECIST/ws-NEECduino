@@ -102,3 +102,75 @@ Soldar :
 A: (1x) Conetor USB.
 
 B: (1x) Botão.
+
+
+7º passo:
+
+![Something](images/seventh_step.png)
+
+Soldar :
+
+Direita: Regulador de 5V 
+
+Esquerda: Regulador3,3V e condensador de 1uF.
+
+8º passo:
+
+![Something](images/eighth_step.png)
+
+Soldar (4x) Condensador 22pF
+
+
+9º passo:
+
+![Something](images/nineth_step.png)
+
+Soldar sockets:
+
+Esquerda: Socket 20 pinos
+
+Direita: Socket 28 pinos
+
+**NOTA** Os sockets têm um pequeno entalhe numa das pontas que deve estar orientado com o da placa.
+
+
+10º passo:
+
+![Something](images/tenth_step.png)
+
+Soldar os Headers.
+
+**NOTA** Caso os headers não estejam cortados à medida, podem ser um pouco frágeis ao cortar, usa um alicate para cortares exatamente o número que queres.
+
+
+11º passo:
+
+![Something](images/eleventh_step.png)
+
+Soldar (2x) Leds.
+
+**NOTA** Os LEDs têm um pequeno entalhe num doslados que deve estar orientado com o da placa.
+
+
+12º passo:
+
+![Something](images/twelveth_step.png)
+
+Soldar (2x) Condensadore de 47uF.
+
+**NOTA** Estes condensadores são polarizados.
+
+
+13º passo:
+
+![Something](images/thirteenth_step.png)
+
+Soldar PTC Fuse.
+
+14º passo:
+
+![Something](images/fourteenth_step.png)
+
+Soldar conector DC
+
+
