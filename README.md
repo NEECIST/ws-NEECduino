@@ -4,7 +4,7 @@
 
 | Components | Quantity | Image |
 | -----------|----------|-------|
-| PCB NEECDuino | 1 | ![Something](images/placa.jpeg) |
+| PCB NEECDuino | 1 | ![Something](images/Placa.jpeg) |
 | Resistência 1kOhm (ou 100Ohm) 1/8W | 6 | ![Something](images/1K.png) |
 | Resistência 10kOhm 1/8W | 4 | ![Something](images/10K.png) |
 | Condensadores 100nF | 3 | ![Something](images/100nf.png) |
