@@ -16,7 +16,7 @@
 | Conector USB-B mini | 1 | ![Something](images/usb.png) |
 | Botão reset | 1 | ![Something](images/button.png) |
 | Regulador 5V | 1 | ![Something](images/5V.jpeg) |
-| Regulador 3.3V | 1 | ![Something](images/3.3V.jpeg) |
+| Regulador 3.3V | 1 | ![Something](images/3.3.jpeg) |
 | Condensador 1uF | 1 | ![Something](images/1uf.jpeg) |
 | Condensadores 22pF | 4 | ![Something](images/22pf.png) |
 | Socket 20 pinos | 1 | ![Something](images/socket20p.png) |
