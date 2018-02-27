@@ -15,9 +15,9 @@
 | Cristal 12MHz | 1 | ![Something](images/12mhz.png) |
 | Conector USB-B mini | 1 | ![Something](images/usb.png) |
 | Botão reset | 1 | ![Something](images/button.png) |
-| Regulador 5V | 1 | ![Something](images/5V.png) |
+| Regulador 5V | 1 | ![Something](images/Regulador5V.png) |
 | Regulador 3.3V | 1 | ![Something](images/3.3V.png) |
-| Condensador 1uF | 1 | ![Something](images/1uf.png) |
+| Condensador 1uF | 1 | ![Something](images/Cond0.1uF.png) |
 | Condensadores 22pF | 4 | ![Something](images/22pf.png) |
 | Socket 20 pinos | 1 | ![Something](images/socket20p.png) |
 | Socket 28 pinos | 1 | ![Something](images/socket28p.png) |
