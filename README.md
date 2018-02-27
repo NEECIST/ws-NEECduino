@@ -9,15 +9,15 @@
 | Resistência 10kOhm 1/8W | 4 | ![Something](images/10K.png) |
 | Condensadores 100nF | 3 | ![Something](images/100nf.png) |
 | Condensador 330nF | 1 | ![Something](images/330nf.png) |
-| PMOS | 1 | ![Something](images/PMOS.png) |
+| PMOS | 1 | ![Something](images/PMOS.jpeg) |
 | Diodo | 1 | ![Something](images/diodo.png) |
 | Cristal 16MHz | 1 | ![Something](images/16mhz.png) |
 | Cristal 12MHz | 1 | ![Something](images/12mhz.png) |
 | Conector USB-B mini | 1 | ![Something](images/usb.png) |
 | Botão reset | 1 | ![Something](images/button.png) |
-| Regulador 5V | 1 | ![Something](images/Regulador5V.png) |
+| Regulador 5V | 1 | ![Something](images/Regulador5V.jpeg) |
 | Regulador 3.3V | 1 | ![Something](images/3.3V.png) |
-| Condensador 1uF | 1 | ![Something](images/Cond0.1uF.png) |
+| Condensador 1uF | 1 | ![Something](images/Cond0.1uF.jpeg) |
 | Condensadores 22pF | 4 | ![Something](images/22pf.png) |
 | Socket 20 pinos | 1 | ![Something](images/socket20p.png) |
 | Socket 28 pinos | 1 | ![Something](images/socket28p.png) |
